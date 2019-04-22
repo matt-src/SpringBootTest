@@ -6,6 +6,10 @@
 :icons: font
 :source-highlighter: prettify
 
+Simple spring boot test app to pull information about runescape items from runescape.com's REST API. Based on the follow guide:
+---------
+
+
 This guide walks you through the process of creating a "hello world" link:/understanding/REST[RESTful web service] with Spring.
 
 == What you'll build
